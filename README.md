@@ -12,7 +12,7 @@ There are 4 main areas of the OpenLXP project:
 The Enterprise Course Catalog (ECC) is a DoD-wide inventory of education and training assets that federate across local DoD networks and data sources, allowing personnel to use a single interface to access these resources, demonstrated in Figure 1 below. By providing a comprehensive catalog of online course content, the ECC will reduce duplications of effort for learners, training administrators, content developers, and acquisition personnel. ADL currently projects a heterogeneous mix of over 500 internal and external learning systems and environments, representing a near-corresponding amount of divergent learning experience metadata formats. An Enterprise Course Catalog should enable discovery of learning resources by DoD learners that enable access to these learning experiences and enable reporting of learning activities accomplished by such learners. 
 
  **Figure 1 - ADL ECC System Architecture Overview**
-![ECC System Architecture Overview](images/186256842-2d255f12-4512-4fff-9619-57ed091c26fd.png)
+![image](https://github.com/OpenLXP/openlxp.github.io/assets/27916526/14e76ac8-9ebb-4b99-ace6-25937620c628)
 
 ## ADL Enterprise Architecture
 The ADL’s Total Learning Architecture (TLA) data strategy includes three functional pillars—information about specific runtime performance outcomes (Learning Activity), a description of the domain in general (Experiences), and individuals’ aggregate records and personal descriptors over time (Learner Profile) —connected via a fourth pillar (Competencies) that creates a “common currency” for semantic interoperability across the other pillars.
